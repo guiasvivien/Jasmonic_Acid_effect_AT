@@ -11,6 +11,7 @@ The dataset originates from the study by **Hickman et al.**, which analyzed JA-m
 - Extract and analyze key transcriptomic data from **eight selected timepoints**.
 - Evaluate whether the expression profile at **T16** returns to its baseline (**T0**).
 - Implement a computational workflow to streamline data processing and visualization.
+- See if the T16 has different genes activated than Timepoint 1 and **T0** or it does not yet mark the second phase of stress reaction of *Arabidopsis Thaliana*
 
 ## Implementation
 - A custom **Python/R script** was developed to extract and analyze relevant gene expression data.
